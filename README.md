@@ -1,6 +1,5 @@
 # Secure-Messenger
-
-# I've created a secure messaging platform with the following features and components:
+I've created a secure messaging platform with the following features and components:
 
 # Encryption Utilities (crypto.ts):
 
@@ -32,3 +31,6 @@ Visual indicators for encrypted messages
 Modern, responsive design
 Real-time message updates
 Clear separation of concerns across components
+# Run
+ npm install && npm run dev
+ 
